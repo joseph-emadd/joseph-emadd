@@ -10,6 +10,11 @@
 ![Graduating](https://img.shields.io/badge/Graduating-Jun_2027-6366f1?style=for-the-badge)
 ![Open to](https://img.shields.io/badge/Open_to-AI_%2F_DS_Internships-22c55e?style=for-the-badge)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-emadd)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/josephemadd)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph.emadd@gmail.com)
+[![CV](https://img.shields.io/badge/Download-CV-111827?style=for-the-badge)](./Joseph_Emad_CV.pdf)
+
 </div>
 
 ---
@@ -31,9 +36,9 @@ B.Sc. Computer Science student at **Modern Academy** (AI & Data Science major), 
 
 ## 🛠️ Tech Stack
 
-| | |
+| Area | Tools |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,cpp,java,dart" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,cpp,java,dart" /> ![SQL](https://img.shields.io/badge/SQL-4B5563?style=flat) |
 | **ML & Vision** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv,pandas,numpy" /> |
 | **Big Data** | <img src="https://skillicons.dev/icons?i=hadoop,spark,kafka,docker" /> ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat&logo=apacheflink&logoColor=white) |
 | **Viz & BI** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
@@ -75,29 +80,23 @@ Compared 16 regression models, from Linear, Ridge and Lasso to XGBoost, LightGBM
 | When | What |
 |---|---|
 | Dec 2025 – Present | **AI & Data Science Diploma**, Instant Software Solutions |
-| Aug – Sep 2026 | **Big Data Intern**, NTI (Spark, Kafka, Flink, Hadoop, Hive) |
-| Aug – Sep 2026 | **Computer Vision Intern**, IT Gate Academy (YOLO, tracking) |
 | Oct 2025 – Present | **Freelance CS Tutor**, undergraduate and postgraduate students |
+| Aug – Sep 2026 | **Big Data Intern**, NTI (Spark, Kafka, Flink, Hadoop, Hive), concurrent |
+| Aug – Sep 2026 | **Computer Vision Intern**, IT Gate Academy (YOLO, tracking), concurrent |
 | Apr – Oct 2024 | **Mobile App Developer Intern**, DEPI (Flutter, Firebase) |
 
 ---
 
-## 📫 Connect With Me
+## 💬 Ask Me About
+
+Big Data pipelines (Spark, Kafka, Flink) · object detection and tracking with YOLO · comparing ML models on tabular data · competitive programming (ICPC community)
+
+---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-emadd)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/josephemadd)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph.emadd@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joseph-emadd&color=6366f1&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- Enable later, after the new repos are pinned and active:
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joseph-emadd&show_icons=true&theme=radical&hide_border=true" />
-</div>
--->
